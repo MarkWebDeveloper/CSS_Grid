@@ -7,6 +7,7 @@ body {
 #grid_container {
     display: grid;
     margin-top: 100px;
+    margin-bottom: 100px;
     max-width: 1024;
     height: auto;
     background-color: rgb(255, 255, 255);
