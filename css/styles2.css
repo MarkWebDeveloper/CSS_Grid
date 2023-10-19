@@ -41,63 +41,63 @@ h2 {
 
 #item2 {
     grid-area: b;
-    background: url(/assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
+    background: url(assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 #item3 {
     grid-area: c;
-    background: url(/assets/beach-5234306_1920.jpg) no-repeat;
+    background: url(assets/beach-5234306_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item4 {
    grid-area: d;
-   background: url(/assets/road-6597404_1920.jpg) no-repeat;
+   background: url(assets/road-6597404_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item5 {
     grid-area: e;
-    background: url(/assets/flowers-276014_1280.jpg) no-repeat;
+    background: url(assets/flowers-276014_1280.jpg) no-repeat;
     background-size: cover;
 }
 
 #item6 {
     grid-area: f;
-    background: url(/assets/magnolia-2218788_1280.jpg) no-repeat;
+    background: url(assets/magnolia-2218788_1280.jpg) no-repeat;
     background-size: cover;
 }
 
 #item7 {
     grid-area: g;
-    background: url(/assets/rainbow-5372890_1920.jpg) no-repeat;
+    background: url(assets/rainbow-5372890_1920.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #item8 {
     grid-area: h;
-    background: url(/assets/milky-way-6496937_1920.jpg) no-repeat;
+    background: url(assets/milky-way-6496937_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item9 {
     grid-area: i;
-    background: url(/assets/red-panda-1852860_1920.jpg) no-repeat;
+    background: url(assets/red-panda-1852860_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item10 {
     grid-area: j;
-    background: url(/assets/water-3271579_1920.jpg) no-repeat;
+    background: url(assets/water-3271579_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item11 {
     grid-area: k;
-    background: url(/assets/road-1072823_1280.jpg) no-repeat;
+    background: url(assets/road-1072823_1280.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
