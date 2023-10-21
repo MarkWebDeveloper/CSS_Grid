@@ -42,63 +42,63 @@ h2 {
 
 #item2 {
     grid-area: b;
-    background: url(CSS_Grid/assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 
 #item3 {
     grid-area: c;
-    background: url(CSS_Grid/assets/beach-5234306_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/beach-5234306_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item4 {
    grid-area: d;
-   background: url(CSS_Grid/assets/road-6597404_1920.jpg) no-repeat;
+   background: url(/CSS_Grid/assets/road-6597404_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item5 {
     grid-area: e;
-    background: url(CSS_Grid/assets/flowers-276014_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/flowers-276014_1280.jpg) no-repeat;
     background-size: cover;
 }
 
 #item6 {
     grid-area: f;
-    background: url(CSS_Grid/assets/magnolia-2218788_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/magnolia-2218788_1280.jpg) no-repeat;
     background-size: cover;
 }
 
 #item7 {
     grid-area: g;
-    background: url(CSS_Grid/assets/rainbow-5372890_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/rainbow-5372890_1920.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #item8 {
     grid-area: h;
-    background: url(CSS_Grid/assets/milky-way-6496937_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/milky-way-6496937_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item9 {
     grid-area: i;
-    background: url(CSS_Grid/assets/red-panda-1852860_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/red-panda-1852860_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item10 {
     grid-area: j;
-    background: url(CSS_Grid/assets/water-3271579_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/water-3271579_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item11 {
     grid-area: k;
-    background: url(CSS_Grid/assets/road-1072823_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/road-1072823_1280.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }

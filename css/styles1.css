@@ -36,7 +36,7 @@ h2 {
 
 #item2 {
     grid-area: 1 / 6 / 2 / 11;
-    background: url(CSS_Grid/assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/lemon-butterflyfish-380037_1280.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
@@ -61,38 +61,38 @@ h2 {
 
 #item6 {
     grid-area: 2 / 9 / 3 / 11;
-    background: url(CSS_Grid/assets/magnolia-2218788_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/magnolia-2218788_1280.jpg) no-repeat;
     background-size: cover;
 }
 
 #item7 {
     grid-area: 3 / 1 / 4 / 5;
-    background: url(CSS_Grid/assets/rainbow-5372890_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/rainbow-5372890_1920.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 #item8 {
     grid-area: 3 / 9 / 4 / 11;
-    background: url(CSS_Grid/assets/milky-way-6496937_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/milky-way-6496937_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item9 {
     grid-area: 4 / 1 / 5 / 3 ;
-    background: url(CSS_Grid/assets/red-panda-1852860_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/red-panda-1852860_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item10 {
     grid-area: 4 / 3 / 5 / 5 ;
-    background: url(CSS_Grid/assets/water-3271579_1920.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/water-3271579_1920.jpg) no-repeat;
     background-size: cover;
 }
 
 #item11 {
     grid-area: 4 / 5 / 5 / 11;
-    background: url(CSS_Grid/assets/road-1072823_1280.jpg) no-repeat;
+    background: url(/CSS_Grid/assets/road-1072823_1280.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
